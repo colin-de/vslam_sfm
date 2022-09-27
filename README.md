@@ -1,5 +1,7 @@
 ## Vision-based Navigation
 
+![vo](fig/vo.png)
+
 This code is a part of the practical course "Vision-based Navigation" (IN2106) taught at the Technical University of Munich.
 
 It was originally developed for the winter term 2018. The latest iteration is winter term 2021/2022.
